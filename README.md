@@ -18,6 +18,7 @@ It is organized into different folders based on topics for better navigation and
 - **Triangle_Pattern_Printing** — Triangle and pyramid pattern programs.
 - **TwoDimensionalArray** — Problems on 2D arrays (matrices).
 - **arrays** — Array-related problems and algorithms.
+- **Stacks** — Stack-related problems and algorithms(printing stacks, reverse stack,copy stack).
 
 ---
 
