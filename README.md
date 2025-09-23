@@ -5,7 +5,7 @@ It is organized into different folders based on topics for better navigation and
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
 
 - **Basic_Sorting** — Implementation of basic sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort, etc.)
 - **BinarySearch** — Binary search problems and variations.
