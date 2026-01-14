@@ -1,4 +1,4 @@
-# 📚 Data Structures & Algorithms in Java  
+# 📚 Data Structures & Algorithms in Java   
 
 This repository contains Java implementations of various **Data Structures and Algorithms (DSA)** problems and concepts.  
 It is organized into different folders based on topics for better navigation and understanding.
