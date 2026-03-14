@@ -28,7 +28,7 @@ It is organized into different folders based on topics for better navigation and
 
 ---
 
-## 🎯 Purpose
+## 🎯 Purposem 
 
 - Practice and strengthen understanding of DSA concepts.
 - Maintain an organized collection of solved problems.
