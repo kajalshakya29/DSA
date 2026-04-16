@@ -19,6 +19,7 @@ It is organized into different folders based on topics for better navigation and
 - **TwoDimensionalArray** — Problems on 2D arrays (matrices).
 - **arrays** — Array-related problems and algorithms.
 - **Stacks** — Stack-related problems and algorithms(printing stacks, reverse stack, copy stack and so on).
+- **Queue** — Queue-related problems and algorithms.
 
 ---
 
